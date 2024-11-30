@@ -10,10 +10,10 @@ public class Main {
            //CRUD
         //Create Data
         //st.createdata();
-        st.readData();
+        //st.readData();
         //st.update();
         //st.deleteData();
-
+// Use these functions as your need
 
     }
 }
