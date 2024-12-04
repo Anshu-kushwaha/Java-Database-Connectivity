@@ -7,7 +7,7 @@ public class Main {
         Student st = new Student();
         //st.createDatabase();
         //st.createTable();
-           //CRUD
+           //CRUD -> Create Read Update Delete 
         //Create Data
         //st.createdata();
         //st.readData();
